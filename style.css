@@ -19,8 +19,8 @@ body{
     justify-content: space-around;
     align-items: center;
 }
-.img-container {
-
+.img-container img {
+width: 300px;
 }
 .text-container {
      text-align: center;
